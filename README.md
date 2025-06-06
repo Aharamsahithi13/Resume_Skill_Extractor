@@ -51,6 +51,7 @@ Resume_data_extractor_1/
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 └── resume_info.py # PDF parsing and data handling logic
+└──.gitattributes #github attributes
 
 ## 💻 Run Locally (Without Docker locally)
 
