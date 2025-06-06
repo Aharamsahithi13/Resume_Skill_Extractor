@@ -1,0 +1,7 @@
+# Handle text files consistently
+* text=auto
+*.html text
+*.css text
+*.py text
+*.json text
+*.csv text
