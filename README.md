@@ -55,7 +55,7 @@ Resume_data_extractor_1/
 
 python app.py
 
-##🐳 Docker Deployment
+## 🐳 Docker Deployment
 Step 1: Build the Docker Image
 bash
 Copy
