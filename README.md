@@ -20,8 +20,6 @@ A full-stack web application that automates the extraction of relevant informati
   - CSV format (`resumes_data.csv`) for analysis
 - 🔎 Filter resumes on `/results` page using keyword search
 - 🌐 Deployed using Docker and hosted on Render
-- 🐳 No GitHub integration — deployed directly using Docker image
-
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +55,7 @@ Resume_data_extractor_1/
 
 python app.py
 
-🐳 Docker Deployment
+##🐳 Docker Deployment
 Step 1: Build the Docker Image
 bash
 Copy
@@ -69,6 +67,8 @@ Copy
 Edit
 docker run -p 5000:5000 resume_extractor
 Access your app at: http://localhost:5000
+
+
 
 ☁️ Deployment on Render
 I deployed this project on Render using a Docker image directly. Here's how:
